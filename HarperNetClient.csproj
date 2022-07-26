@@ -7,7 +7,6 @@
     <PackageId>HarperDB.NET.Client</PackageId>
     <PackageVersion>1.1.0</PackageVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>HarperDB</Authors>
     <Description>
     This client library enables working with HarperDB's Operations API to perform actions against the database.
