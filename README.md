@@ -1,5 +1,4 @@
-
-#HarperDB.NET.Client
+# HarperDB.NET.Client
 
 This client library enables working with HarperDB's Operations API to perform actions against the database. 
 
